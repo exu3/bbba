@@ -5,3 +5,6 @@ Balance Boxes is a student-led initiative fiscally sponsored by the 501(c)(3), F
 This website, built with the Bootstrap framework, serves as a platform where potential sponsors and donors can learn more about the mission of Balance Boxes, specifically in the Bay Area. 
 
 ## Learn more
+- [Instagram](https://www.instagram.com/balanceboxes_ba/?hl=en)
+- [Facebook](https://www.facebook.com/balanceboxes/)
+- [Free to Run Foundation](https://www.freetorunfoundation.org/)
